@@ -296,8 +296,6 @@ hr{
 
 
 
-
-
 /* This container is needed to position the front and back side */
 .flip-card-inner {
   position: relative;
@@ -320,3 +318,31 @@ hr{
 .flip-card-back {
     transform: rotateY(180deg);
 }
+
+
+
+  @media (min-width: 600px) {
+      .college_a{
+        font-size: 6px;
+      }
+      .image .rollNo{
+        position: absolute;
+       left: 14px;
+       top: 20px;
+    }
+   
+    .image .contact{
+      position: absolute;
+      bottom: 10px;
+      left: 14px;
+}
+    .image .dob{
+      position: absolute;
+      top: 20px;
+      right: 16px;
+    
+}
+
+
+}
+
