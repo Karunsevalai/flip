@@ -111,7 +111,7 @@ hr{
 }
 .image .rollNo{
   position: absolute;
-  left: 18px;
+  left: 16px;
   top: 20px;
 }
 .image .rollNo h3{
@@ -120,7 +120,7 @@ hr{
 .image .contact{
    position: absolute;
    bottom: 10px;
-   left: 18px;
+   left: 16px;
 
 }
 .image .photo{
@@ -135,7 +135,7 @@ hr{
 .image .dob{
     position: absolute;
     top: 20px;
-    right: 20px;
+    right: 18px;
     
 }
 .image .dob h3{
