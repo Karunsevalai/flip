@@ -327,21 +327,24 @@ hr{
       }
       .image .rollNo{
         position: absolute;
-       left: 14px;
+       left: 12px;
        top: 20px;
     }
    
     .image .contact{
       position: absolute;
       bottom: 10px;
-      left: 14px;
+      left: 12px;
 }
     .image .dob{
       position: absolute;
       top: 20px;
-      right: 16px;
+      right: 14px;
     
 }
+      .card2 .foot{
+          font-size:6px;
+      }
 
 
 }
