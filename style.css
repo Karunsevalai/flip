@@ -321,7 +321,7 @@ hr{
 
 
 
-  @media (min-width: 800px) {
+  @media (man-width: 992px) {
       .college_a{
         font-size: 6px;
       }
